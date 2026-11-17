@@ -1,0 +1,16 @@
+{
+ "name": "CGF Topside Locator",
+ "short_name": "CGF Locator",
+ "start_url": "./",
+ "display": "standalone",
+ "background_color": "#EDF1F4",
+ "theme_color": "#13202B",
+ "icons": [
+  {
+   "src": "icon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml",
+   "purpose": "any"
+  }
+ ]
+}
